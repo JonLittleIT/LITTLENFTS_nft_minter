@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1383a6f.chunk.css",
-    "main.js": "/static/js/main.b0cb7be0.chunk.js",
-    "main.js.map": "/static/js/main.b0cb7be0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f11aad43.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f11aad43.js.map",
-    "static/js/2.8ad1b7dd.chunk.js": "/static/js/2.8ad1b7dd.chunk.js",
-    "static/js/2.8ad1b7dd.chunk.js.map": "/static/js/2.8ad1b7dd.chunk.js.map",
-    "static/js/3.334072e6.chunk.js": "/static/js/3.334072e6.chunk.js",
-    "static/js/3.334072e6.chunk.js.map": "/static/js/3.334072e6.chunk.js.map",
+    "main.css": "/static/css/main.74eda18f.chunk.css",
+    "main.js": "/static/js/main.4a324fa9.chunk.js",
+    "main.js.map": "/static/js/main.4a324fa9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a02f41c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a02f41c6.js.map",
+    "static/js/2.60aa7f39.chunk.js": "/static/js/2.60aa7f39.chunk.js",
+    "static/js/2.60aa7f39.chunk.js.map": "/static/js/2.60aa7f39.chunk.js.map",
+    "static/js/3.bf3e3a65.chunk.js": "/static/js/3.bf3e3a65.chunk.js",
+    "static/js/3.bf3e3a65.chunk.js.map": "/static/js/3.bf3e3a65.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e1383a6f.chunk.css.map": "/static/css/main.e1383a6f.chunk.css.map",
-    "static/js/2.8ad1b7dd.chunk.js.LICENSE.txt": "/static/js/2.8ad1b7dd.chunk.js.LICENSE.txt",
-    "static/media/1.cd128949.png": "/static/media/1.cd128949.png",
-    "static/media/reset.css": "/static/media/PressStart2P-Regular.f2341734.woff"
+    "precache-manifest.d26f87cdce1efa3ae001f0ecbb401578.js": "/precache-manifest.d26f87cdce1efa3ae001f0ecbb401578.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.74eda18f.chunk.css.map": "/static/css/main.74eda18f.chunk.css.map",
+    "static/js/2.60aa7f39.chunk.js.LICENSE.txt": "/static/js/2.60aa7f39.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.5db707bd.png",
+    "static/media/reset.css": "/static/media/PressStart2P-Regular.027246ff.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f11aad43.js",
-    "static/js/2.8ad1b7dd.chunk.js",
-    "static/css/main.e1383a6f.chunk.css",
-    "static/js/main.b0cb7be0.chunk.js"
+    "static/js/runtime-main.a02f41c6.js",
+    "static/js/2.60aa7f39.chunk.js",
+    "static/css/main.74eda18f.chunk.css",
+    "static/js/main.4a324fa9.chunk.js"
   ]
 }
