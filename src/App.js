@@ -66,7 +66,7 @@ function App() {
       .mint(blockchain.account, _amount)
       .send({
         gasLimit: "285000",
-        to: "0x15889b52c1398ed474c250126418890678c63faa",
+        to: "0xde9fBfc4cD47BE83b148cDAafe4003eB0ADf44FC",
         from: blockchain.account,
         value: blockchain.web3.utils.toWei((100 * _amount).toString(), "ether"),
       })
