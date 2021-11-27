@@ -1,5 +1,5 @@
 const SmartContract = artifacts.require("LITTLENFTS");
 
 module.exports = function (deployer) {
-  deployer.deploy(SmartContract, "LITTLENFTS", "LITTLENFTS", "https://jonlittlenfts.com ");
+  deployer.deploy(SmartContract, "LITTLENFTS", "LITT", "https://jonlittlenfts.com ");
 };
