@@ -14,7 +14,7 @@ contract LITTLENFTS is ERC721Enumerable, Ownable {
   string public baseURI;
   string public baseExtension = ".json";
   uint256 public cost = 100 ether;
-  uint256 public maxSupply = 20;
+  uint256 public maxSupply = 20000;
   uint256 public maxMintAmount = 100;
   bool public paused = false;
   mapping(address => bool) public whitelisted;
